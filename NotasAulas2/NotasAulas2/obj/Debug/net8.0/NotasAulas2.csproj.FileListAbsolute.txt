@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\bin\Debug\net8.0\NotasAulas2.exe
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\bin\Debug\net8.0\NotasAulas2.deps.json
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\bin\Debug\net8.0\NotasAulas2.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\bin\Debug\net8.0\NotasAulas2.dll
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\bin\Debug\net8.0\NotasAulas2.pdb
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.dll
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\refint\NotasAulas2.dll
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.pdb
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\NotasAulas2.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\NotasAulas2\NotasAulas2\obj\Debug\net8.0\ref\NotasAulas2.dll

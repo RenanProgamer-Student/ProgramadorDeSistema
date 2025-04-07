@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\bin\Debug\net8.0\Comeco_da_aula1.exe
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\bin\Debug\net8.0\Comeco_da_aula1.deps.json
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\bin\Debug\net8.0\Comeco_da_aula1.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\bin\Debug\net8.0\Comeco_da_aula1.dll
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\bin\Debug\net8.0\Comeco_da_aula1.pdb
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.dll
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\refint\Comeco_da_aula1.dll
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.pdb
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\Comeco_da_aula1.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\Comeco_da_aula1\Comeco_da_aula1\obj\Debug\net8.0\ref\Comeco_da_aula1.dll

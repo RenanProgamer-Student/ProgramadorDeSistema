@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\bin\Debug\net8.0\JurosSimplesAula2.exe
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\bin\Debug\net8.0\JurosSimplesAula2.deps.json
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\bin\Debug\net8.0\JurosSimplesAula2.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\bin\Debug\net8.0\JurosSimplesAula2.dll
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\bin\Debug\net8.0\JurosSimplesAula2.pdb
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.dll
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\refint\JurosSimplesAula2.dll
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.pdb
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\JurosSimplesAula2.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\JurosSimplesAula2\JurosSimplesAula2\obj\Debug\net8.0\ref\JurosSimplesAula2.dll

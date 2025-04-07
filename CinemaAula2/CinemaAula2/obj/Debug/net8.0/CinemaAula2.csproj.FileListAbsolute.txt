@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\bin\Debug\net8.0\CinemaAula2.exe
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\bin\Debug\net8.0\CinemaAula2.deps.json
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\bin\Debug\net8.0\CinemaAula2.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\bin\Debug\net8.0\CinemaAula2.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\bin\Debug\net8.0\CinemaAula2.pdb
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\refint\CinemaAula2.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.pdb
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\CinemaAula2.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaAula2\CinemaAula2\obj\Debug\net8.0\ref\CinemaAula2.dll

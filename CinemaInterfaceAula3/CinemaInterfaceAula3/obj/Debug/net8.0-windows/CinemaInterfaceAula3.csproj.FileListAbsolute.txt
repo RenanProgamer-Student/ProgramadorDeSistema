@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\bin\Debug\net8.0-windows\CinemaInterfaceAula3.exe
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\bin\Debug\net8.0-windows\CinemaInterfaceAula3.deps.json
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\bin\Debug\net8.0-windows\CinemaInterfaceAula3.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\bin\Debug\net8.0-windows\CinemaInterfaceAula3.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\bin\Debug\net8.0-windows\CinemaInterfaceAula3.pdb
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\refint\CinemaInterfaceAula3.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.pdb
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\ref\CinemaInterfaceAula3.dll
+D:\Users\Aluno\Documents\renanPdS\CinemaInterfaceAula3\CinemaInterfaceAula3\obj\Debug\net8.0-windows\CinemaInterfaceAula3.Properties.Resources.resources
