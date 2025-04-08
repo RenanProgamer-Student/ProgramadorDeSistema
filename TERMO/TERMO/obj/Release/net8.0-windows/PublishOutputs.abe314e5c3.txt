@@ -1,0 +1,5 @@
+D:\Projetos C#\TERMO.exe
+D:\Projetos C#\TERMO.dll
+D:\Projetos C#\TERMO.deps.json
+D:\Projetos C#\TERMO.runtimeconfig.json
+D:\Projetos C#\TERMO.pdb
