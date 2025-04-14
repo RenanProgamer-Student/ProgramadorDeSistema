@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
