@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\bin\Debug\net8.0-windows\calculadora_IF.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\bin\Debug\net8.0-windows\calculadora_IF.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\bin\Debug\net8.0-windows\calculadora_IF.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\bin\Debug\net8.0-windows\calculadora_IF.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\bin\Debug\net8.0-windows\calculadora_IF.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\refint\calculadora_IF.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\calculadora_IF.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\calculadora_IF\calculadora_IF\obj\Debug\net8.0-windows\ref\calculadora_IF.dll
