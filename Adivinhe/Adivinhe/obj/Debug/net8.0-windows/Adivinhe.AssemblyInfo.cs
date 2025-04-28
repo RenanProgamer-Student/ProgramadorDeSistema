@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adivinhe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b82d6a23db7fc65a4066f1e309022fb1f37a76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db3e6fb7dd78a56026e3d74e9f94bc7f1921160")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adivinhe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adivinhe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

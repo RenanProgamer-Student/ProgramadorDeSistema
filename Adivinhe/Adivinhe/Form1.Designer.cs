@@ -99,7 +99,7 @@
             lblResultado.BackColor = Color.Transparent;
             lblResultado.FlatStyle = FlatStyle.System;
             lblResultado.Font = new Font("News706 BT", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblResultado.Location = new Point(53, 396);
+            lblResultado.Location = new Point(41, 393);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(52, 18);
             lblResultado.TabIndex = 5;

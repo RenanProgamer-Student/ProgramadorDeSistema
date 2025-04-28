@@ -39,7 +39,7 @@ namespace Adivinhe
                 {
                     lblResultado.Visible = true;
                     lblResultado.ForeColor = Color.Red;
-                    creditos -= -1;
+                    creditos -= 1;
                     lblResultado.Text = "Você Errou o numero, que pena, tente mais uma vez";
                 }
                 tbxNumero.Clear();
