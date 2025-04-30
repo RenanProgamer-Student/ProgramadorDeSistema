@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\bin\Debug\net8.0-windows\StringVetor.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\bin\Debug\net8.0-windows\StringVetor.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\bin\Debug\net8.0-windows\StringVetor.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\bin\Debug\net8.0-windows\StringVetor.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\bin\Debug\net8.0-windows\StringVetor.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\refint\StringVetor.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\StringVetor.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\StringVetor\StringVetor\obj\Debug\net8.0-windows\ref\StringVetor.dll

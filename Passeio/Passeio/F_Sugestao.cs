@@ -13,10 +13,12 @@ namespace passeio
 {
     public partial class F_Sugestao : Form
     {
+        //Variaveis globais
         String c;
         double v;
         public F_Sugestao(String clima, double valor)
         {
+            //variaveis locais
             c = clima;
             v = valor;
             InitializeComponent();

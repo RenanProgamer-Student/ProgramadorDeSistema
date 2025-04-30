@@ -3,7 +3,7 @@ namespace TERMO
     public partial class Form1 : Form
     {
         // Vetor com 50 palavras
-        String[] palavras = { "carta", "vento", "pluma", "festa", "nuvem", "tigre", "verde", "ramos", "folha", "bravo", "luzes", "mares", "solar", "chove", "flora", "pazao", "fogao", "noite", "diasa", "ceusa", "terro", "vidas", "amora", "risos", "sonho", "luaes", "estao", "venta", "cores", "tempo", "artes", "ponti", "linha", "formo", "vazio", "cheio", "altos", "baixo", "longe", "perto", "frios", "quente", "doces", "salga", "lento", "rapid", "claro", "escuro", "forte", "fraco" };
+        String[] palavras = { "carta", "vento", "pluma", "festa", "nuvem", "tigre", "verde", "ramos", "folha", "bravo", "luzes", "mares", "solar", "chove", "flora", "pazao", "fogao", "noite", "diasa", "ceusa", "terro", "vidas", "amora", "risos", "sonho", "luaes", "estao", "venta", "cores", "tempo", "artes", "ponti", "linha", "formo", "vazio", "cheio", "altos", "baixo", "longe", "perto", "frios", "calor", "doces", "salga", "lento", "rapid", "claro", "escuro", "forte", "fraco" };
 
         String termo;
         int contLinhas = 0;

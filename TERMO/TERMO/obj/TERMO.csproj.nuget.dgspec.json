@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos C#\\TERMO\\TERMO\\TERMO\\TERMO.csproj": {}
+    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\TERMO\\TERMO\\TERMO.csproj": {}
   },
   "projects": {
-    "D:\\Projetos C#\\TERMO\\TERMO\\TERMO\\TERMO.csproj": {
+    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\TERMO\\TERMO\\TERMO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos C#\\TERMO\\TERMO\\TERMO\\TERMO.csproj",
+        "projectUniqueName": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\TERMO\\TERMO\\TERMO.csproj",
         "projectName": "TERMO",
-        "projectPath": "D:\\Projetos C#\\TERMO\\TERMO\\TERMO\\TERMO.csproj",
-        "packagesPath": "C:\\Users\\Yiame\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos C#\\TERMO\\TERMO\\TERMO\\obj\\",
+        "projectPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\TERMO\\TERMO\\TERMO.csproj",
+        "packagesPath": "D:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\TERMO\\TERMO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yiame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

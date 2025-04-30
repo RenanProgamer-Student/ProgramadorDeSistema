@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\passeio\\passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B761DC97-A9AB-40AC-B094-34DD5DF9159A}|passeio\\passeio.csproj|solutionrelative:passeio\\f_sugestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\Passeio\\Form1.cs",
               "RelativeDocumentMoniker": "Passeio\\Form1.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\Passeio\\Form1.cs",
               "RelativeDocumentMoniker": "Passeio\\Form1.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "F_Sugestao.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\Passeio\\F_Sugestao.cs",
               "RelativeDocumentMoniker": "Passeio\\F_Sugestao.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "F_Sugestao.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\Passeio\\F_Sugestao.cs",
               "RelativeDocumentMoniker": "Passeio\\F_Sugestao.cs",

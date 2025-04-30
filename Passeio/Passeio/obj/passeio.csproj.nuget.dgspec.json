@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\passeio\\passeio\\passeio.csproj": {}
+    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\passeio\\passeio.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\passeio\\passeio\\passeio.csproj": {
+    "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\passeio\\passeio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\passeio\\passeio\\passeio.csproj",
+        "projectUniqueName": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\passeio\\passeio.csproj",
         "projectName": "passeio",
-        "projectPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\passeio\\passeio\\passeio.csproj",
+        "projectPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Passeio\\passeio\\passeio.csproj",
         "packagesPath": "D:\\Users\\Aluno\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\passeio\\passeio\\obj\\",
         "projectStyle": "PackageReference",
