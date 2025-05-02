@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\NotasAulas2\\",
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\NotasAulas2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5AFC035-3480-4DE5-9722-4DDADFE81C4C}|NotasAulas2\\NotasAulas2.csproj|d:\\users\\aluno\\documents\\renanpds\\notasaulas2\\notasaulas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AFC035-3480-4DE5-9722-4DDADFE81C4C}|NotasAulas2\\NotasAulas2.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\notasaulas2\\notasaulas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AFC035-3480-4DE5-9722-4DDADFE81C4C}|NotasAulas2\\NotasAulas2.csproj|solutionrelative:notasaulas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\NotasAulas2\\NotasAulas2\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\NotasAulas2\\NotasAulas2\\Program.cs",
               "RelativeDocumentMoniker": "NotasAulas2\\Program.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\NotasAulas2\\NotasAulas2\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\NotasAulas2\\NotasAulas2\\Program.cs",
               "RelativeToolTip": "NotasAulas2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

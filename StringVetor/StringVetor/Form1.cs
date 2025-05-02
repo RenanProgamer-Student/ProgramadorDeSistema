@@ -51,6 +51,34 @@ namespace StringVetor
                     break;
 
             }
+
+            String dia = dtpRodizio.Value.ToString("dddd", new System.Globalization.CultureInfo("pt-BR"));
+            String frase = "Liberado";
+
+            if (dia == "segunda-feira" && (placa[6] == '1' || placa[6] == '2'))
+            { 
+                frase = "Não liberado";
+            }
+            else if (dia == "terça-feira" && (placa[6] == '3' || placa[6] == '4'))
+            {
+                frase = "Não liberado";
+            }
+            else if (dia == "quarta-feira" && (placa[6] == '5' || placa[6] == '6'))
+            {
+                frase = "Não liberado";
+            }
+            else if (dia == "quinta-feira" && (placa[6] == '7' || placa[6] == '8'))
+            {
+                frase = "Não liberado";
+            }
+            else if (dia == "sexta-feira" && (placa[6] == '9' || placa[6] == '0'))
+            {
+                frase = "Não liberado";
+            }
+            MessageBox.Show($"{frase}");
+
+
+
             /*
             if (numero == "1")
             {
