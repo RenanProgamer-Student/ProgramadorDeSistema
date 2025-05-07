@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\bin\Debug\net8.0-windows\NumeroSequencial.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\bin\Debug\net8.0-windows\NumeroSequencial.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\bin\Debug\net8.0-windows\NumeroSequencial.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\bin\Debug\net8.0-windows\NumeroSequencial.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\bin\Debug\net8.0-windows\NumeroSequencial.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\refint\NumeroSequencial.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\NumeroSequencial.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\NumeroSequencial\NumeroSequencial\obj\Debug\net8.0-windows\ref\NumeroSequencial.dll

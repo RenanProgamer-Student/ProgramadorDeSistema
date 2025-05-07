@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\bin\Debug\net8.0-windows\VetorLetra.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\bin\Debug\net8.0-windows\VetorLetra.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\bin\Debug\net8.0-windows\VetorLetra.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\bin\Debug\net8.0-windows\VetorLetra.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\bin\Debug\net8.0-windows\VetorLetra.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\refint\VetorLetra.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\VetorLetra.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VetorLetra\VetorLetra\obj\Debug\net8.0-windows\ref\VetorLetra.dll

@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\bin\Debug\net8.0-windows\SomaPrecos.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\bin\Debug\net8.0-windows\SomaPrecos.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\bin\Debug\net8.0-windows\SomaPrecos.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\bin\Debug\net8.0-windows\SomaPrecos.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\bin\Debug\net8.0-windows\SomaPrecos.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\refint\SomaPrecos.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\SomaPrecos.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\SomaPrecos\SomaPrecos\obj\Debug\net8.0-windows\ref\SomaPrecos.dll

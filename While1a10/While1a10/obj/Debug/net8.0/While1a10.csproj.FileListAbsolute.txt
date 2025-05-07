@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\bin\Debug\net8.0\While1a10.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\bin\Debug\net8.0\While1a10.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\bin\Debug\net8.0\While1a10.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\bin\Debug\net8.0\While1a10.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\bin\Debug\net8.0\While1a10.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\refint\While1a10.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\While1a10.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\While1a10\While1a10\obj\Debug\net8.0\ref\While1a10.dll

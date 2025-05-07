@@ -95,7 +95,7 @@
             // 
             Confirmar.Location = new Point(169, 171);
             Confirmar.Name = "Confirmar";
-            Confirmar.Size = new Size(99, 28);
+            Confirmar.Size = new Size(100, 28);
             Confirmar.TabIndex = 6;
             Confirmar.Text = "Verificar";
             Confirmar.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             // 
             // tbxMes
             // 
-            tbxMes.Location = new Point(180, 57);
+            tbxMes.Location = new Point(169, 57);
             tbxMes.Name = "tbxMes";
             tbxMes.ReadOnly = true;
             tbxMes.Size = new Size(100, 23);
@@ -120,9 +120,9 @@
             // 
             // dtpRodizio
             // 
-            dtpRodizio.Location = new Point(124, 100);
+            dtpRodizio.Location = new Point(104, 100);
             dtpRodizio.Name = "dtpRodizio";
-            dtpRodizio.Size = new Size(249, 23);
+            dtpRodizio.Size = new Size(269, 23);
             dtpRodizio.TabIndex = 9;
             // 
             // label4
