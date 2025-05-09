@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\bin\Debug\net8.0-windows\soma1a15.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\bin\Debug\net8.0-windows\soma1a15.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\bin\Debug\net8.0-windows\soma1a15.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\bin\Debug\net8.0-windows\soma1a15.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\bin\Debug\net8.0-windows\soma1a15.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\refint\soma1a15.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\soma1a15.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\soma1a15\soma1a15\obj\Debug\net8.0-windows\ref\soma1a15.dll

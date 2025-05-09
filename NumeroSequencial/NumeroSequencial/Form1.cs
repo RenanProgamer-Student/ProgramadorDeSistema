@@ -15,17 +15,19 @@ namespace NumeroSequencial
             int IC = Convert.ToInt32(tbxIC.Text);
             //qtd = quantidade
             int qtd = Convert.ToInt32(tbxQtd.Text);
-            int total = 0;
+            int total = TI;
             String frase = "";
             //int i;
 
             for (int i = 0; i < qtd; i++)
             {
-                total = TI + (IC * i);
+                //total = TI + (IC * i);
+                frase += $" {total}";
+                total += IC;
 
-                 lblResultado.Visible = true;
-                lblResultado.Text = $" {frase += $" {total}"}";
             }
+            lblResultado.Visible = true;
+            lblResultado.Text = frase;
             
         }
     }

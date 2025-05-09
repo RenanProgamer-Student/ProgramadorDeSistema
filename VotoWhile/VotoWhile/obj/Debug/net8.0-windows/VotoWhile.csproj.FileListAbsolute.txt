@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\bin\Debug\net8.0-windows\VotoWhile.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\bin\Debug\net8.0-windows\VotoWhile.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\bin\Debug\net8.0-windows\VotoWhile.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\bin\Debug\net8.0-windows\VotoWhile.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\bin\Debug\net8.0-windows\VotoWhile.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\refint\VotoWhile.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\VotoWhile.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\VotoWhile\VotoWhile\obj\Debug\net8.0-windows\ref\VotoWhile.dll
