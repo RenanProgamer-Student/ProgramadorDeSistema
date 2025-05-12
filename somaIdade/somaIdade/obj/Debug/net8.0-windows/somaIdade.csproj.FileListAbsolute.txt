@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\bin\Debug\net8.0-windows\somaIdade.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\bin\Debug\net8.0-windows\somaIdade.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\bin\Debug\net8.0-windows\somaIdade.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\bin\Debug\net8.0-windows\somaIdade.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\bin\Debug\net8.0-windows\somaIdade.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.Form1.resources
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\refint\somaIdade.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\somaIdade.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\somaIdade\somaIdade\obj\Debug\net8.0-windows\ref\somaIdade.dll

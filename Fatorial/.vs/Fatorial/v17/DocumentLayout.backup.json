@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{47D3DC34-7F98-4B31-9CF0-5C5728B133F0}|Fatorial\\Fatorial.csproj|solutionrelative:fatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D3DC34-7F98-4B31-9CF0-5C5728B133F0}|Fatorial\\Fatorial.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\fatorial\\fatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47D3DC34-7F98-4B31-9CF0-5C5728B133F0}|Fatorial\\Fatorial.csproj|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\fatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D3DC34-7F98-4B31-9CF0-5C5728B133F0}|Fatorial\\Fatorial.csproj|solutionrelative:fatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs",
               "RelativeDocumentMoniker": "Fatorial\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs*",
-              "RelativeToolTip": "Fatorial\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs",
+              "RelativeToolTip": "Fatorial\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T17:49:32.36Z",
               "EditorCaption": ""
@@ -39,11 +39,10 @@
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs",
               "RelativeDocumentMoniker": "Fatorial\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs [Projeto]*",
-              "RelativeToolTip": "Fatorial\\Form1.cs [Projeto]*",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Fatorial\\Fatorial\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Fatorial\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:47:29.373Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-05-09T17:47:29.373Z"
             }
           ]
         }
