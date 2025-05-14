@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetorLetra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc432dc3da829a3222aebb656b04675fed00d267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8204b6dbde97faad83c17cf0a9aee5c7f03876")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetorLetra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetorLetra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

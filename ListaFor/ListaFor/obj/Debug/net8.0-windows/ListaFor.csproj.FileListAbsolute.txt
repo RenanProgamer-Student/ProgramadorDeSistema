@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\bin\Debug\net8.0-windows\ListaFor.exe
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\bin\Debug\net8.0-windows\ListaFor.deps.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\bin\Debug\net8.0-windows\ListaFor.runtimeconfig.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\bin\Debug\net8.0-windows\ListaFor.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\bin\Debug\net8.0-windows\ListaFor.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.Form1.resources
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.sourcelink.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\refint\ListaFor.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ListaFor.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ListaFor\ListaFor\obj\Debug\net8.0-windows\ref\ListaFor.dll

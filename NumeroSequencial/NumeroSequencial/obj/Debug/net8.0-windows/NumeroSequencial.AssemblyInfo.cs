@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumeroSequencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05402a8f743441ee52c9fe3ba5a7179c3dfbdfaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8204b6dbde97faad83c17cf0a9aee5c7f03876")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumeroSequencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumeroSequencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
