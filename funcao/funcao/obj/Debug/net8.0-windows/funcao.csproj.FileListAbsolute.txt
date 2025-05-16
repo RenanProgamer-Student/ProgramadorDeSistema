@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\bin\Debug\net8.0-windows\funcao.exe
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\bin\Debug\net8.0-windows\funcao.deps.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\bin\Debug\net8.0-windows\funcao.runtimeconfig.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\bin\Debug\net8.0-windows\funcao.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\bin\Debug\net8.0-windows\funcao.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.Form1.resources
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.sourcelink.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\refint\funcao.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\funcao.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\funcao\funcao\obj\Debug\net8.0-windows\ref\funcao.dll

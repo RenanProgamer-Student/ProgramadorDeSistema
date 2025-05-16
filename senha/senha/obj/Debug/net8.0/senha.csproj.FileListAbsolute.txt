@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\bin\Debug\net8.0\senha.exe
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\bin\Debug\net8.0\senha.deps.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\bin\Debug\net8.0\senha.runtimeconfig.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\bin\Debug\net8.0\senha.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\bin\Debug\net8.0\senha.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.sourcelink.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\refint\senha.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\senha.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\senha\senha\obj\Debug\net8.0\ref\senha.dll

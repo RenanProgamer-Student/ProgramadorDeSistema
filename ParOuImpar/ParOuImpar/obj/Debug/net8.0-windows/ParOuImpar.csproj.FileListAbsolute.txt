@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\bin\Debug\net8.0-windows\ParOuImpar.exe
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\bin\Debug\net8.0-windows\ParOuImpar.deps.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\bin\Debug\net8.0-windows\ParOuImpar.runtimeconfig.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\bin\Debug\net8.0-windows\ParOuImpar.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\bin\Debug\net8.0-windows\ParOuImpar.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.Form1.resources
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.sourcelink.json
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\refint\ParOuImpar.dll
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.pdb
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ParOuImpar.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rrds\ProgramadorDeSistema\ParOuImpar\ParOuImpar\obj\Debug\net8.0-windows\ref\ParOuImpar.dll

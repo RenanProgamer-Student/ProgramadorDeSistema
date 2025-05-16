@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\For1a10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|d:\\users\\aluno\\documents\\renanpds\\programadordesistema\\for1a10\\for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|c:\\users\\aluno\\documents\\rrds\\programadordesistema\\for1a10\\for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|solutionrelative:for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\For1a10\\for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4681A7D8-6B2B-419D-A1E6-9DFF03F56C09}|For1a10\\For1a10.csproj|solutionrelative:for1a10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
               "RelativeDocumentMoniker": "For1a10\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
               "RelativeToolTip": "For1a10\\Form1.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAowDcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,10 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs",
               "RelativeDocumentMoniker": "For1a10\\Form1.cs",
               "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\For1a10\\For1a10\\Form1.cs [Projeto]",
-              "RelativeToolTip": "For1a10\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:18:43.838Z"
             }
