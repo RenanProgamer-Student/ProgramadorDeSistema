@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿namespace Escola
 {
     partial class F_Diretor
@@ -29,226 +28,94 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            menuStrip1 = new MenuStrip();
-            gereciarProfessoresToolStripMenuItem = new ToolStripMenuItem();
-            cadastrarToolStripMenuItem = new ToolStripMenuItem();
-            editarToolStripMenuItem = new ToolStripMenuItem();
-            listarToolStripMenuItem = new ToolStripMenuItem();
-            deletarToolStripMenuItem = new ToolStripMenuItem();
-            relatorioEEstatisticasToolStripMenuItem = new ToolStripMenuItem();
-            toolTip1 = new ToolTip(components);
-            notifyIcon1 = new NotifyIcon(components);
-            menuStrip1.SuspendLayout();
-            SuspendLayout();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.gerenciarProfessoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.editarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.deletarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.relatóriosEEstatísticasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
+            this.SuspendLayout();
             // 
             // menuStrip1
             // 
-            menuStrip1.Items.AddRange(new ToolStripItem[] { gereciarProfessoresToolStripMenuItem, relatorioEEstatisticasToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1030, 24);
-            menuStrip1.TabIndex = 0;
-            menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.gerenciarProfessoresToolStripMenuItem,
+            this.relatóriosEEstatísticasToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.TabIndex = 0;
+            this.menuStrip1.Text = "menuStrip1";
             // 
-            // gereciarProfessoresToolStripMenuItem
+            // gerenciarProfessoresToolStripMenuItem
             // 
-            gereciarProfessoresToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cadastrarToolStripMenuItem, editarToolStripMenuItem, listarToolStripMenuItem, deletarToolStripMenuItem });
-            gereciarProfessoresToolStripMenuItem.Name = "gereciarProfessoresToolStripMenuItem";
-            gereciarProfessoresToolStripMenuItem.Size = new Size(125, 20);
-            gereciarProfessoresToolStripMenuItem.Text = "Gereciar Professores";
+            this.gerenciarProfessoresToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cadastrarToolStripMenuItem,
+            this.editarToolStripMenuItem,
+            this.listarToolStripMenuItem,
+            this.deletarToolStripMenuItem});
+            this.gerenciarProfessoresToolStripMenuItem.Name = "gerenciarProfessoresToolStripMenuItem";
+            this.gerenciarProfessoresToolStripMenuItem.Size = new System.Drawing.Size(132, 20);
+            this.gerenciarProfessoresToolStripMenuItem.Text = "Gerenciar Professores";
             // 
             // cadastrarToolStripMenuItem
             // 
-            cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
-            cadastrarToolStripMenuItem.Size = new Size(124, 22);
-            cadastrarToolStripMenuItem.Text = "Cadastrar";
+            this.cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
+            this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cadastrarToolStripMenuItem.Text = "Cadastrar";
+            this.cadastrarToolStripMenuItem.Click += new System.EventHandler(this.cadastrarToolStripMenuItem_Click_1);
             // 
             // editarToolStripMenuItem
             // 
-            editarToolStripMenuItem.Name = "editarToolStripMenuItem";
-            editarToolStripMenuItem.Size = new Size(124, 22);
-            editarToolStripMenuItem.Text = "Editar";
+            this.editarToolStripMenuItem.Name = "editarToolStripMenuItem";
+            this.editarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.editarToolStripMenuItem.Text = "Editar";
             // 
             // listarToolStripMenuItem
             // 
-            listarToolStripMenuItem.Name = "listarToolStripMenuItem";
-            listarToolStripMenuItem.Size = new Size(124, 22);
-            listarToolStripMenuItem.Text = "Listar";
+            this.listarToolStripMenuItem.Name = "listarToolStripMenuItem";
+            this.listarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.listarToolStripMenuItem.Text = "Listar";
             // 
             // deletarToolStripMenuItem
             // 
-            deletarToolStripMenuItem.Name = "deletarToolStripMenuItem";
-            deletarToolStripMenuItem.Size = new Size(124, 22);
-            deletarToolStripMenuItem.Text = "Deletar";
+            this.deletarToolStripMenuItem.Name = "deletarToolStripMenuItem";
+            this.deletarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.deletarToolStripMenuItem.Text = "Deletar";
             // 
-            // relatorioEEstatisticasToolStripMenuItem
+            // relatóriosEEstatísticasToolStripMenuItem
             // 
-            relatorioEEstatisticasToolStripMenuItem.Name = "relatorioEEstatisticasToolStripMenuItem";
-            relatorioEEstatisticasToolStripMenuItem.Size = new Size(135, 20);
-            relatorioEEstatisticasToolStripMenuItem.Text = "Relatorio e Estatisticas";
-            // 
-            // notifyIcon1
-            // 
-            notifyIcon1.Text = "notifyIcon1";
-            notifyIcon1.Visible = true;
+            this.relatóriosEEstatísticasToolStripMenuItem.Name = "relatóriosEEstatísticasToolStripMenuItem";
+            this.relatóriosEEstatísticasToolStripMenuItem.Size = new System.Drawing.Size(140, 20);
+            this.relatóriosEEstatísticasToolStripMenuItem.Text = "Relatórios e Estatísticas";
             // 
             // F_Diretor
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1030, 590);
-            Controls.Add(menuStrip1);
-            FormBorderStyle = FormBorderStyle.FixedDialog;
-            MainMenuStrip = menuStrip1;
-            MaximizeBox = false;
-            Name = "F_Diretor";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Tela do Diretor";
-            Load += F_Diretor_Load;
-            menuStrip1.ResumeLayout(false);
-            menuStrip1.PerformLayout();
-            ResumeLayout(false);
-            PerformLayout();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
+            this.Name = "F_Diretor";
+            this.Text = "Pagina do Diretor";
+            this.Load += new System.EventHandler(this.F_Diretor_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
 
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem gereciarProfessoresToolStripMenuItem;
-        private ToolStripMenuItem cadastrarToolStripMenuItem;
-        private ToolStripMenuItem editarToolStripMenuItem;
-        private ToolStripMenuItem listarToolStripMenuItem;
-        private ToolStripMenuItem deletarToolStripMenuItem;
-        private ToolStripMenuItem relatorioEEstatisticasToolStripMenuItem;
-        private ToolTip toolTip1;
-        private NotifyIcon notifyIcon1;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem gerenciarProfessoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem relatóriosEEstatísticasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cadastrarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem editarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem deletarToolStripMenuItem;
     }
-=======
-﻿namespace Escola
-{
-    partial class F_Diretor
-    {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
-        private System.ComponentModel.IContainer components = null;
-
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
-
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
-        private void InitializeComponent()
-        {
-            components = new System.ComponentModel.Container();
-            menuStrip1 = new MenuStrip();
-            gereciarProfessoresToolStripMenuItem = new ToolStripMenuItem();
-            cadastrarToolStripMenuItem = new ToolStripMenuItem();
-            editarToolStripMenuItem = new ToolStripMenuItem();
-            listarToolStripMenuItem = new ToolStripMenuItem();
-            deletarToolStripMenuItem = new ToolStripMenuItem();
-            relatorioEEstatisticasToolStripMenuItem = new ToolStripMenuItem();
-            toolTip1 = new ToolTip(components);
-            notifyIcon1 = new NotifyIcon(components);
-            menuStrip1.SuspendLayout();
-            SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            menuStrip1.Items.AddRange(new ToolStripItem[] { gereciarProfessoresToolStripMenuItem, relatorioEEstatisticasToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1030, 24);
-            menuStrip1.TabIndex = 0;
-            menuStrip1.Text = "menuStrip1";
-            // 
-            // gereciarProfessoresToolStripMenuItem
-            // 
-            gereciarProfessoresToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cadastrarToolStripMenuItem, editarToolStripMenuItem, listarToolStripMenuItem, deletarToolStripMenuItem });
-            gereciarProfessoresToolStripMenuItem.Name = "gereciarProfessoresToolStripMenuItem";
-            gereciarProfessoresToolStripMenuItem.Size = new Size(125, 20);
-            gereciarProfessoresToolStripMenuItem.Text = "Gereciar Professores";
-            // 
-            // cadastrarToolStripMenuItem
-            // 
-            cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
-            cadastrarToolStripMenuItem.Size = new Size(124, 22);
-            cadastrarToolStripMenuItem.Text = "Cadastrar";
-            // 
-            // editarToolStripMenuItem
-            // 
-            editarToolStripMenuItem.Name = "editarToolStripMenuItem";
-            editarToolStripMenuItem.Size = new Size(124, 22);
-            editarToolStripMenuItem.Text = "Editar";
-            // 
-            // listarToolStripMenuItem
-            // 
-            listarToolStripMenuItem.Name = "listarToolStripMenuItem";
-            listarToolStripMenuItem.Size = new Size(124, 22);
-            listarToolStripMenuItem.Text = "Listar";
-            // 
-            // deletarToolStripMenuItem
-            // 
-            deletarToolStripMenuItem.Name = "deletarToolStripMenuItem";
-            deletarToolStripMenuItem.Size = new Size(124, 22);
-            deletarToolStripMenuItem.Text = "Deletar";
-            // 
-            // relatorioEEstatisticasToolStripMenuItem
-            // 
-            relatorioEEstatisticasToolStripMenuItem.Name = "relatorioEEstatisticasToolStripMenuItem";
-            relatorioEEstatisticasToolStripMenuItem.Size = new Size(135, 20);
-            relatorioEEstatisticasToolStripMenuItem.Text = "Relatorio e Estatisticas";
-            // 
-            // notifyIcon1
-            // 
-            notifyIcon1.Text = "notifyIcon1";
-            notifyIcon1.Visible = true;
-            // 
-            // F_Diretor
-            // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1030, 590);
-            Controls.Add(menuStrip1);
-            FormBorderStyle = FormBorderStyle.FixedDialog;
-            MainMenuStrip = menuStrip1;
-            MaximizeBox = false;
-            Name = "F_Diretor";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Tela do Diretor";
-            Load += F_Diretor_Load;
-            menuStrip1.ResumeLayout(false);
-            menuStrip1.PerformLayout();
-            ResumeLayout(false);
-            PerformLayout();
-        }
-
-        #endregion
-
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem gereciarProfessoresToolStripMenuItem;
-        private ToolStripMenuItem cadastrarToolStripMenuItem;
-        private ToolStripMenuItem editarToolStripMenuItem;
-        private ToolStripMenuItem listarToolStripMenuItem;
-        private ToolStripMenuItem deletarToolStripMenuItem;
-        private ToolStripMenuItem relatorioEEstatisticasToolStripMenuItem;
-        private ToolTip toolTip1;
-        private NotifyIcon notifyIcon1;
-    }
->>>>>>> 4e2b252a2f0cfab5879d560deaf77c53b142be93
 }

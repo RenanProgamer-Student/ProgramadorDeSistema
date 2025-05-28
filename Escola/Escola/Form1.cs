@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
 namespace Escola
 {
     public partial class Form1 : Form
@@ -8,48 +17,18 @@ namespace Escola
             InitializeComponent();
         }
 
-        private void btnAcessar_Click(object sender, EventArgs e)
+        private void btnEntrar_Click(object sender, EventArgs e)
         {
-            String user = tbxUser.Text;
-            String senha = tbxPass.Text;
-            String perfil = cbxPerfil.Text;
+            String usuario = tbxUsuario.Text;
+            String senha   = tbxSenha.Text;
+            String perfil  = cbxPerfil.Text;
 
-            if (perfil == "Diretor")
+            if(perfil == "Diretor")
             {
-                F_Diretor f_Diretor = new F_Diretor(this);
-                f_Diretor.ShowDialog();
+                F_Diretor janelaDiretor = new F_Diretor(this);
+                janelaDiretor.ShowDialog();
                 this.Close();
-                
-                
             }
         }
     }
 }
-=======
-namespace Escola
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();
-        }
-
-        private void btnAcessar_Click(object sender, EventArgs e)
-        {
-            String user = tbxUser.Text;
-            String senha = tbxPass.Text;
-            String perfil = cbxPerfil.Text;
-
-            if (perfil == "Diretor")
-            {
-                F_Diretor f_Diretor = new F_Diretor(this);
-                f_Diretor.ShowDialog();
-                this.Close();
-                
-                
-            }
-        }
-    }
-}
->>>>>>> 4e2b252a2f0cfab5879d560deaf77c53b142be93
