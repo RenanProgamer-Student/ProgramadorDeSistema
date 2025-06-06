@@ -30,17 +30,21 @@ namespace Escola
             SqlConnection conn = new SqlConnection(strconn);
 
             //Comando sql
-            String sql = "INSERT INTO Professores (nome, cpf, usuario, senha, dataAdmissao, segmento) VALUES(@nome, @cpf, @usuario, @senha, @dataAdmissao, @segmento)";
+            String sql = "INSERT INTO Professores (nome, cpf, usuario, senha, salt, dataAdmissao, segmento) VALUES(@nome, @cpf, @usuario, @senha, @salt, @dataAdmissao, @segmento)";
 
 
             try
             {
+
+                String salt = PasswordHelper.GenerateSalt();
+                String senhaHash = PasswordHelper.HashPassword(tbxSenha.Text, salt);
                 //Adicionar parametros
                 SqlCommand comando = new SqlCommand(sql, conn);
                 comando.Parameters.Add(new SqlParameter("@cpf", tbxCpf.Text));
                 comando.Parameters.Add(new SqlParameter("@nome", tbxNome.Text));
                 comando.Parameters.Add(new SqlParameter("@usuario", tbxUser.Text));
-                comando.Parameters.Add(new SqlParameter("@senha", tbxSenha.Text));
+                comando.Parameters.Add(new SqlParameter("@senha", senhaHash));
+                comando.Parameters.Add(new SqlParameter("@salt", salt));
                 comando.Parameters.Add(new SqlParameter("@dataAdmissao", dtpData.Text));
                 comando.Parameters.Add(new SqlParameter("@segmento", cbxSegmento.Text));
 

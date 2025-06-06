@@ -38,7 +38,7 @@ namespace Escola
                 comando.Parameters.Add(new SqlParameter("@cpf", tbxCpfAluno.Text));
                 comando.Parameters.Add(new SqlParameter("@nome", tbxNomeAluno.Text));
                 comando.Parameters.Add(new SqlParameter("@usuario", tbxUserAluno.Text));
-                comando.Parameters.Add(new SqlParameter("@senha",   senhaHash));
+                comando.Parameters.Add(new SqlParameter("@senha", senhaHash));
                 comando.Parameters.Add(new SqlParameter("@salt", salt));
                 comando.Parameters.Add(new SqlParameter("@dataNascimento", dtpDataNascimento.Text));
                 

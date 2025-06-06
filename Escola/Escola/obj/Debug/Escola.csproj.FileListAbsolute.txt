@@ -23,3 +23,4 @@ C:\Users\senacadm\Documents\Escola\Escola\obj\Debug\Escola.exe
 C:\Users\senacadm\Documents\Escola\Escola\obj\Debug\Escola.pdb
 C:\Users\senacadm\Documents\Escola\Escola\obj\Debug\Escola.F_Professor.resources
 C:\Users\senacadm\Documents\Escola\Escola\obj\Debug\Escola.F_CadastrarAluno.resources
+C:\Users\senacadm\Documents\Escola\Escola\obj\Debug\Escola.F_Aluno.resources
