@@ -29,6 +29,12 @@ namespace Escola
                 janelaDiretor.ShowDialog();
                 this.Close();
             }
+            else if (perfil == "Professor")
+            {
+                F_Professor janelaProfessor = new F_Professor(this);
+                janelaProfessor.ShowDialog();
+                this.Close();
+            }
         }
     }
 }
