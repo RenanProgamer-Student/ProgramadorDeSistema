@@ -32,7 +32,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gerenciarAlunosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.editarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tsmGrenciar = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,7 +50,7 @@
             // 
             this.gerenciarAlunosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastrarToolStripMenuItem,
-            this.editarToolStripMenuItem});
+            this.tsmGrenciar});
             this.gerenciarAlunosToolStripMenuItem.Name = "gerenciarAlunosToolStripMenuItem";
             this.gerenciarAlunosToolStripMenuItem.Size = new System.Drawing.Size(109, 20);
             this.gerenciarAlunosToolStripMenuItem.Text = "Gerenciar Alunos";
@@ -62,11 +62,12 @@
             this.cadastrarToolStripMenuItem.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem.Click += new System.EventHandler(this.cadastrarToolStripMenuItem_Click);
             // 
-            // editarToolStripMenuItem
+            // tsmGrenciar
             // 
-            this.editarToolStripMenuItem.Name = "editarToolStripMenuItem";
-            this.editarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.editarToolStripMenuItem.Text = "Editar";
+            this.tsmGrenciar.Name = "tsmGrenciar";
+            this.tsmGrenciar.Size = new System.Drawing.Size(180, 22);
+            this.tsmGrenciar.Text = "Gerenciar";
+            this.tsmGrenciar.Click += new System.EventHandler(this.editarToolStripMenuItem_Click);
             // 
             // F_Professor
             // 
@@ -91,6 +92,6 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem gerenciarAlunosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem editarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tsmGrenciar;
     }
 }
