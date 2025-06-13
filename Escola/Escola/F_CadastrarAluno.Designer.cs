@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F_CadastrarAluno));
-            this.btnCadastrarProfessor = new System.Windows.Forms.Button();
+            this.btnCadastrarAluno = new System.Windows.Forms.Button();
             this.dtpDataNascimento = new System.Windows.Forms.DateTimePicker();
             this.tbxSenhaAluno = new System.Windows.Forms.TextBox();
             this.tbxUserAluno = new System.Windows.Forms.TextBox();
@@ -43,20 +43,20 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnCadastrarProfessor
+            // btnCadastrarAluno
             // 
-            this.btnCadastrarProfessor.BackColor = System.Drawing.Color.White;
-            this.btnCadastrarProfessor.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnCadastrarProfessor.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCadastrarProfessor.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnCadastrarProfessor.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
-            this.btnCadastrarProfessor.Location = new System.Drawing.Point(162, 333);
-            this.btnCadastrarProfessor.Name = "btnCadastrarProfessor";
-            this.btnCadastrarProfessor.Size = new System.Drawing.Size(87, 30);
-            this.btnCadastrarProfessor.TabIndex = 28;
-            this.btnCadastrarProfessor.Text = " Cadastrar";
-            this.btnCadastrarProfessor.UseVisualStyleBackColor = false;
-            this.btnCadastrarProfessor.Click += new System.EventHandler(this.btnCadastrarProfessor_Click);
+            this.btnCadastrarAluno.BackColor = System.Drawing.Color.White;
+            this.btnCadastrarAluno.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCadastrarAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCadastrarAluno.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnCadastrarAluno.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.btnCadastrarAluno.Location = new System.Drawing.Point(162, 333);
+            this.btnCadastrarAluno.Name = "btnCadastrarAluno";
+            this.btnCadastrarAluno.Size = new System.Drawing.Size(87, 30);
+            this.btnCadastrarAluno.TabIndex = 28;
+            this.btnCadastrarAluno.Text = " Cadastrar";
+            this.btnCadastrarAluno.UseVisualStyleBackColor = false;
+            this.btnCadastrarAluno.Click += new System.EventHandler(this.btnCadastrarProfessor_Click);
             // 
             // dtpDataNascimento
             // 
@@ -178,7 +178,7 @@
             this.BackgroundImage = global::Escola.Properties.Resources.bg_CdProf;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(375, 442);
-            this.Controls.Add(this.btnCadastrarProfessor);
+            this.Controls.Add(this.btnCadastrarAluno);
             this.Controls.Add(this.dtpDataNascimento);
             this.Controls.Add(this.tbxSenhaAluno);
             this.Controls.Add(this.tbxUserAluno);
@@ -199,7 +199,7 @@
         }
 
         #endregion
-        private System.Windows.Forms.Button btnCadastrarProfessor;
+        private System.Windows.Forms.Button btnCadastrarAluno;
         private System.Windows.Forms.DateTimePicker dtpDataNascimento;
         private System.Windows.Forms.TextBox tbxSenhaAluno;
         private System.Windows.Forms.TextBox tbxUserAluno;
