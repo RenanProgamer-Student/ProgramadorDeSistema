@@ -219,6 +219,7 @@
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "F_CadastrarProf";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro do Professor";
             this.Load += new System.EventHandler(this.F_CadastrarProf_Load);
             this.ResumeLayout(false);

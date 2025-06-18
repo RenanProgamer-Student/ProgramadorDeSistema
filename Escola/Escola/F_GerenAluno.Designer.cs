@@ -42,6 +42,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.btnSelecionar = new System.Windows.Forms.Button();
+            this.btnDeletar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -92,7 +93,7 @@
             this.btnEditarAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEditarAluno.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btnEditarAluno.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
-            this.btnEditarAluno.Location = new System.Drawing.Point(714, 358);
+            this.btnEditarAluno.Location = new System.Drawing.Point(675, 228);
             this.btnEditarAluno.Name = "btnEditarAluno";
             this.btnEditarAluno.Size = new System.Drawing.Size(87, 30);
             this.btnEditarAluno.TabIndex = 40;
@@ -103,7 +104,7 @@
             // dtpDataNascimento
             // 
             this.dtpDataNascimento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpDataNascimento.Location = new System.Drawing.Point(676, 308);
+            this.dtpDataNascimento.Location = new System.Drawing.Point(637, 178);
             this.dtpDataNascimento.Name = "dtpDataNascimento";
             this.dtpDataNascimento.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.dtpDataNascimento.Size = new System.Drawing.Size(175, 20);
@@ -111,7 +112,7 @@
             // 
             // tbxCpf
             // 
-            this.tbxCpf.Location = new System.Drawing.Point(676, 248);
+            this.tbxCpf.Location = new System.Drawing.Point(637, 118);
             this.tbxCpf.MaxLength = 14;
             this.tbxCpf.Name = "tbxCpf";
             this.tbxCpf.Size = new System.Drawing.Size(175, 20);
@@ -119,7 +120,7 @@
             // 
             // tbxNome
             // 
-            this.tbxNome.Location = new System.Drawing.Point(676, 210);
+            this.tbxNome.Location = new System.Drawing.Point(637, 80);
             this.tbxNome.MaxLength = 250;
             this.tbxNome.Name = "tbxNome";
             this.tbxNome.Size = new System.Drawing.Size(175, 20);
@@ -131,7 +132,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Bell MT", 11.25F);
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(699, 286);
+            this.label4.Location = new System.Drawing.Point(660, 156);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(133, 19);
             this.label4.TabIndex = 32;
@@ -143,7 +144,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Bell MT", 11.25F);
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(639, 249);
+            this.label3.Location = new System.Drawing.Point(600, 119);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 19);
             this.label3.TabIndex = 31;
@@ -155,7 +156,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Bell MT", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(625, 211);
+            this.label2.Location = new System.Drawing.Point(586, 81);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(45, 19);
             this.label2.TabIndex = 30;
@@ -167,7 +168,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("News706 BT", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(667, 163);
+            this.label5.Location = new System.Drawing.Point(628, 33);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(165, 25);
             this.label5.TabIndex = 29;
@@ -188,11 +189,27 @@
             this.btnSelecionar.UseVisualStyleBackColor = false;
             this.btnSelecionar.Click += new System.EventHandler(this.btnSelecionar_Click);
             // 
+            // btnDeletar
+            // 
+            this.btnDeletar.BackColor = System.Drawing.Color.White;
+            this.btnDeletar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnDeletar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeletar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnDeletar.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.btnDeletar.Location = new System.Drawing.Point(394, 538);
+            this.btnDeletar.Name = "btnDeletar";
+            this.btnDeletar.Size = new System.Drawing.Size(87, 30);
+            this.btnDeletar.TabIndex = 42;
+            this.btnDeletar.Text = "Deletar";
+            this.btnDeletar.UseVisualStyleBackColor = false;
+            this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
+            // 
             // F_GerenAluno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(895, 580);
+            this.ClientSize = new System.Drawing.Size(835, 580);
+            this.Controls.Add(this.btnDeletar);
             this.Controls.Add(this.btnSelecionar);
             this.Controls.Add(this.btnEditarAluno);
             this.Controls.Add(this.dtpDataNascimento);
@@ -208,6 +225,7 @@
             this.Controls.Add(this.dgvListaAlunos);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "F_GerenAluno";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Painel Gerenciar Alunos";
             this.Load += new System.EventHandler(this.F_GerenAluno_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).EndInit();
@@ -231,5 +249,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnSelecionar;
+        private System.Windows.Forms.Button btnDeletar;
     }
 }

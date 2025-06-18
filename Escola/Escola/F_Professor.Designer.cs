@@ -33,7 +33,9 @@
             this.gerenciarAlunosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmGrenciar = new System.Windows.Forms.ToolStripMenuItem();
+            this.dgvListaAlunos = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -69,19 +71,33 @@
             this.tsmGrenciar.Text = "Gerenciar";
             this.tsmGrenciar.Click += new System.EventHandler(this.editarToolStripMenuItem_Click);
             // 
+            // dgvListaAlunos
+            // 
+            this.dgvListaAlunos.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dgvListaAlunos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListaAlunos.Location = new System.Drawing.Point(12, 67);
+            this.dgvListaAlunos.Name = "dgvListaAlunos";
+            this.dgvListaAlunos.ReadOnly = true;
+            this.dgvListaAlunos.RowHeadersVisible = false;
+            this.dgvListaAlunos.Size = new System.Drawing.Size(776, 371);
+            this.dgvListaAlunos.TabIndex = 1;
+            // 
             // F_Professor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.dgvListaAlunos);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "F_Professor";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Área do Professor";
             this.Load += new System.EventHandler(this.F_Professor_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -93,5 +109,6 @@
         private System.Windows.Forms.ToolStripMenuItem gerenciarAlunosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmGrenciar;
+        private System.Windows.Forms.DataGridView dgvListaAlunos;
     }
 }

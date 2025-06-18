@@ -18,10 +18,26 @@ namespace Escola
             f.Visible = false;
             InitializeComponent();
         }
+        private void CarregarAlunos()
+        {
+            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
+            string command = "SELECT nome, cpf, dataNascimento FROM dbo.Alunos";
 
+            try
+            {
+                SqlDataAdapter da = new SqlDataAdapter(command, sql);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dgvListaAlunos.DataSource = dt;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao carregar dados: " + ex.Message);
+            }
+        }
         private void F_Professor_Load(object sender, EventArgs e)
         {
-
+            CarregarAlunos();
         }
 
         private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)

@@ -17,63 +17,53 @@ namespace Escola
         {
             InitializeComponent();
         }
+
+        // Método para carregar os dados no DataGridView
+        private void CarregarAlunos()
+        {
+            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
+            string command = "SELECT nome, cpf, dataNascimento FROM dbo.Alunos";
+
+            try
+            {
+                SqlDataAdapter da = new SqlDataAdapter(command, sql);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dgvListaAlunos.DataSource = dt;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao carregar dados: " + ex.Message);
+            }
+        }
+
+        // Carregar os dados ao abrir o formulário
         private void F_GerenAluno_Load(object sender, EventArgs e)
         {
-            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-
-            String command = "Select nome, cpf, dataNascimento from dbo.Alunos";
-            try
-            {
-                //executa um comando SQL e recebendo dados
-                SqlDataAdapter da = new SqlDataAdapter(command, sql);
-                //instancia um DataTable - que servirá de intermediáro
-                DataTable dt = new DataTable();
-                //preencher o dt com os dados presente no da
-                da.Fill(dt);
-                //preencher o dataGridView com os dados do dt
-                dgvListaAlunos.DataSource = dt;
-                this.Controls.Add(dgvListaAlunos);
-
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Não foi possivel visualizar!\n" + ex.Message, "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            CarregarAlunos();
         }
 
-
-
-        private void dgvListaAlunos_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
+        // Filtro por nome
         private void btnFiltro_Click(object sender, EventArgs e)
         {
-            String FiltroNome = tbxFiltroNome.Text;
-
+            string filtroNome = tbxFiltroNome.Text;
             SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            String command = $"Select nome, cpf, dataNascimento from dbo.Alunos WHERE nome LIKE '%{FiltroNome}%'";
+            string command = $"SELECT nome, cpf, dataNascimento FROM dbo.Alunos WHERE nome LIKE '%{filtroNome}%'";
 
             try
             {
-                //executa um comando SQL e recebendo dados
                 SqlDataAdapter da = new SqlDataAdapter(command, sql);
-                //instancia um DataTable - que servirá de intermediáro
                 DataTable dt = new DataTable();
-                //preencher o dt com os dados presente no da
                 da.Fill(dt);
-                //preencher o dataGridView com os dados do dt
                 dgvListaAlunos.DataSource = dt;
-                this.Controls.Add(dgvListaAlunos);
-
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Não foi possivel visualizar!\n" + ex.Message, "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Erro ao aplicar filtro: " + ex.Message);
             }
         }
 
+        // Preencher campos quando selecionar no DataGridView
         private void btnSelecionar_Click(object sender, EventArgs e)
         {
             tbxNome.Text = dgvListaAlunos.CurrentRow.Cells[0].Value.ToString();
@@ -81,28 +71,70 @@ namespace Escola
             dtpDataNascimento.Text = dgvListaAlunos.CurrentRow.Cells[2].Value.ToString();
         }
 
+        // Editar registro
         private void btnEditarAluno_Click(object sender, EventArgs e)
         {
-            String cpf = dgvListaAlunos.CurrentRow.Cells[1].Value.ToString();
+            string cpfAntigo = dgvListaAlunos.CurrentRow.Cells[1].Value.ToString();
             SqlConnection conn = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
 
-            SqlCommand comand = new SqlCommand($"UPDATE dbo.Alunos SET nome = @nome, cpf = @cpf, dataNascimento = @dataNascimento WHERE cpf = '{cpf}'", conn);
+            SqlCommand comand = new SqlCommand(
+                "UPDATE dbo.Alunos SET nome = @nome, cpf = @cpf, dataNascimento = @dataNascimento WHERE cpf = @cpfAntigo", conn);
 
             try
             {
-                comand.Parameters.Add(new SqlParameter("@cpf", tbxCpf.Text));
-                comand.Parameters.Add(new SqlParameter("@nome", tbxNome.Text));
-                comand.Parameters.Add(new SqlParameter("@dataNascimento", dtpDataNascimento.Text));
+                comand.Parameters.AddWithValue("@nome", tbxNome.Text);
+                comand.Parameters.AddWithValue("@cpf", tbxCpf.Text);
+                comand.Parameters.AddWithValue("@dataNascimento", dtpDataNascimento.Text);
+                comand.Parameters.AddWithValue("@cpfAntigo", cpfAntigo);
 
                 conn.Open();
                 comand.ExecuteNonQuery();
                 conn.Close();
-                MessageBox.Show("Auteração feita com Sucesso!", "Concluido", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                MessageBox.Show("Alteração feita com sucesso!", "Concluído", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                // Atualiza o DataGridView
+                CarregarAlunos();
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Não foi possivel concluir a ação!\n" + ex.Message, "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Erro ao editar!\n" + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        // Deletar registro
+        private void btnDeletar_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Deseja realmente excluir este registro?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                string cpf = dgvListaAlunos.CurrentRow.Cells[1].Value.ToString();
+                SqlConnection conn = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
+
+                SqlCommand comand = new SqlCommand("DELETE FROM dbo.Alunos WHERE cpf = @cpf", conn);
+
+                try
+                {
+                    comand.Parameters.AddWithValue("@cpf", cpf);
+
+                    conn.Open();
+                    comand.ExecuteNonQuery();
+                    conn.Close();
+
+                    MessageBox.Show("Deletado com sucesso!", "Concluído", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    // Atualiza o DataGridView
+                    CarregarAlunos();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Erro ao deletar!\n" + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        // Você pode deixar o CellContentClick vazio ou usar para alguma ação futura
+        private void dgvListaAlunos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
         }
     }
 }
