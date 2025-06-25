@@ -1,0 +1,10 @@
+C:\Users\senacadm\Documents\POO\POO\bin\Debug\POO.exe.config
+C:\Users\senacadm\Documents\POO\POO\bin\Debug\POO.exe
+C:\Users\senacadm\Documents\POO\POO\bin\Debug\POO.pdb
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.T_TelaInicial.resources
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.exe
+C:\Users\senacadm\Documents\POO\POO\obj\Debug\POO.pdb
