@@ -22,7 +22,7 @@ namespace Escola
         private void CarregarAlunos()
         {
             SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = "SELECT nome, cpf, dataNascimento FROM dbo.Alunos";
+            string command = "SELECT (RTRIM(nome)) as nome, cpf, dataNascimento FROM dbo.Alunos";
 
             try
             {
@@ -41,6 +41,29 @@ namespace Escola
         private void F_GerenAluno_Load(object sender, EventArgs e)
         {
             CarregarAlunos();
+
+            //preencher ComboBox
+            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
+            string command = "SELECT (RTRIM(nome)) as nome FROM dbo.Alunos";
+            SqlCommand comando = new SqlCommand(command, sql);
+            try
+            {
+                sql.Open();
+                SqlDataReader reader = comando.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string nomeALuno = reader["nome"].ToString();
+                    cbbAluno.Items.Add(nomeALuno);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao carregar dados: " + ex.Message);
+            }
+
+
         }
 
         // Filtro por nome
@@ -48,7 +71,7 @@ namespace Escola
         {
             string filtroNome = tbxFiltroNome.Text;
             SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = $"SELECT nome, cpf, dataNascimento FROM dbo.Alunos WHERE nome LIKE '%{filtroNome}%'";
+            string command = $"SELECT (RTRIM(nome)), cpf, dataNascimento FROM dbo.Alunos WHERE nome LIKE '%{filtroNome}%'";
 
             try
             {

@@ -43,6 +43,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.btnSelecionar = new System.Windows.Forms.Button();
             this.btnDeletar = new System.Windows.Forms.Button();
+            this.cbbAluno = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -204,11 +205,20 @@
             this.btnDeletar.UseVisualStyleBackColor = false;
             this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
             // 
+            // cbbAluno
+            // 
+            this.cbbAluno.FormattingEnabled = true;
+            this.cbbAluno.Location = new System.Drawing.Point(637, 288);
+            this.cbbAluno.Name = "cbbAluno";
+            this.cbbAluno.Size = new System.Drawing.Size(175, 21);
+            this.cbbAluno.TabIndex = 43;
+            // 
             // F_GerenAluno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(835, 580);
+            this.Controls.Add(this.cbbAluno);
             this.Controls.Add(this.btnDeletar);
             this.Controls.Add(this.btnSelecionar);
             this.Controls.Add(this.btnEditarAluno);
@@ -250,5 +260,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnSelecionar;
         private System.Windows.Forms.Button btnDeletar;
+        private System.Windows.Forms.ComboBox cbbAluno;
     }
 }

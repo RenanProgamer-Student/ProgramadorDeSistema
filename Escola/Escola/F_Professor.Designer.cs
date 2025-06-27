@@ -34,6 +34,7 @@
             this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmGrenciar = new System.Windows.Forms.ToolStripMenuItem();
             this.dgvListaAlunos = new System.Windows.Forms.DataGridView();
+            this.btnAtualizar = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).BeginInit();
             this.SuspendLayout();
@@ -82,11 +83,22 @@
             this.dgvListaAlunos.Size = new System.Drawing.Size(776, 371);
             this.dgvListaAlunos.TabIndex = 1;
             // 
+            // btnAtualizar
+            // 
+            this.btnAtualizar.Location = new System.Drawing.Point(713, 38);
+            this.btnAtualizar.Name = "btnAtualizar";
+            this.btnAtualizar.Size = new System.Drawing.Size(75, 23);
+            this.btnAtualizar.TabIndex = 2;
+            this.btnAtualizar.Text = "Atualizar";
+            this.btnAtualizar.UseVisualStyleBackColor = true;
+            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
+            // 
             // F_Professor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnAtualizar);
             this.Controls.Add(this.dgvListaAlunos);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -110,5 +122,6 @@
         private System.Windows.Forms.ToolStripMenuItem cadastrarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmGrenciar;
         private System.Windows.Forms.DataGridView dgvListaAlunos;
+        private System.Windows.Forms.Button btnAtualizar;
     }
 }

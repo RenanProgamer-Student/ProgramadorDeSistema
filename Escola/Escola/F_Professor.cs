@@ -21,7 +21,7 @@ namespace Escola
         private void CarregarAlunos()
         {
             SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = "SELECT nome, cpf, dataNascimento FROM dbo.Alunos";
+            string command = "SELECT (RTRIM(nome)) as nome, cpf, dataNascimento as 'Data Nascimento' FROM dbo.Alunos";
 
             try
             {
@@ -50,8 +50,11 @@ namespace Escola
         {
             F_GerenAluno janelaGerenAluno = new F_GerenAluno();
             janelaGerenAluno.ShowDialog();
+        }
 
-            
+        private void btnAtualizar_Click(object sender, EventArgs e)
+        {
+            CarregarAlunos();
         }
     }
 }
