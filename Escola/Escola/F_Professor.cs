@@ -20,12 +20,11 @@ namespace Escola
         }
         private void CarregarAlunos()
         {
-            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = "SELECT (RTRIM(nome)) as nome, cpf, dataNascimento as 'Data Nascimento' FROM dbo.Alunos";
+            C_Aluno c_Aluno = new C_Aluno();
 
             try
             {
-                SqlDataAdapter da = new SqlDataAdapter(command, sql);
+                SqlDataAdapter da = c_Aluno.selecionarTodos();
                 DataTable dt = new DataTable();
                 da.Fill(dt);
                 dgvListaAlunos.DataSource = dt;

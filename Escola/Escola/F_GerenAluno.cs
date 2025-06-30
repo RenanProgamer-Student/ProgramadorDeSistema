@@ -21,12 +21,11 @@ namespace Escola
         // Método para carregar os dados no DataGridView
         private void CarregarAlunos()
         {
-            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = "SELECT (RTRIM(nome)) as nome, cpf, dataNascimento FROM dbo.Alunos";
+            C_Aluno c_Aluno = new C_Aluno();
 
             try
             {
-                SqlDataAdapter da = new SqlDataAdapter(command, sql);
+                SqlDataAdapter da = c_Aluno.selecionarTodos();
                 DataTable dt = new DataTable();
                 da.Fill(dt);
                 dgvListaAlunos.DataSource = dt;
@@ -43,13 +42,11 @@ namespace Escola
             CarregarAlunos();
 
             //preencher ComboBox
-            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = "SELECT (RTRIM(nome)) as nome FROM dbo.Alunos";
-            SqlCommand comando = new SqlCommand(command, sql);
+            C_Aluno c_Aluno = new C_Aluno();
             try
             {
-                sql.Open();
-                SqlDataReader reader = comando.ExecuteReader();
+
+                SqlDataReader reader = c_Aluno.selecionarNome();
 
                 while (reader.Read())
                 {

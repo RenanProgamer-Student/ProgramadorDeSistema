@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -66,6 +67,25 @@ namespace Escola
                 //fehcando a conexão
                 conn.Close();
             }
+        }
+
+        public SqlDataAdapter selecionarTodos()
+        {
+                SqlConnection conn = c_Conexao.abrirConxexao();
+                string command = "SELECT (RTRIM(nome)) as nome, cpf, dataNascimento as 'Data de Nascimento' FROM dbo.Alunos";
+
+                SqlDataAdapter da = c_Conexao.selecionarDados(command, conn);
+                conn.Close();
+                return da;
+            
+        }
+
+        public SqlDataReader selecionarNome()
+        {
+            SqlConnection conn = c_Conexao.abrirConxexao();
+            string command = "SELECT (RTRIM(nome)) as nome FROM dbo.Alunos";
+            SqlDataReader reader = c_Conexao.selecionarDadosReader(command, conn);
+            return reader;
         }
 
     }

@@ -38,5 +38,20 @@ namespace Escola
                 return "erro";
             }
         }
+        
+        public SqlDataAdapter selecionarDados(string c, SqlConnection conn)
+        {
+            SqlDataAdapter da = new SqlDataAdapter(c, conn);
+            return da; 
+        }
+
+        public SqlDataReader selecionarDadosReader(string c, SqlConnection conn)
+        {
+
+            SqlCommand comando = new SqlCommand(c, conn);
+            SqlDataReader reader = comando.ExecuteReader();
+            return reader;
+        }
+        
     }
 }
