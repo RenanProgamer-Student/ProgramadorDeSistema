@@ -45,7 +45,6 @@ namespace Escola
             C_Aluno c_Aluno = new C_Aluno();
             try
             {
-
                 SqlDataReader reader = c_Aluno.selecionarNome();
 
                 while (reader.Read())
@@ -53,7 +52,6 @@ namespace Escola
                     string nomeALuno = reader["nome"].ToString();
                     cbbAluno.Items.Add(nomeALuno);
                 }
-                reader.Close();
             }
             catch (Exception ex)
             {

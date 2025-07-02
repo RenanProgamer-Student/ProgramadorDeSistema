@@ -47,7 +47,7 @@ namespace Escola
 
         public SqlDataReader selecionarDadosReader(string c, SqlConnection conn)
         {
-
+            conn.Open();
             SqlCommand comando = new SqlCommand(c, conn);
             SqlDataReader reader = comando.ExecuteReader();
             return reader;
