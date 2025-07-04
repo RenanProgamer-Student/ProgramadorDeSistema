@@ -16,6 +16,7 @@ namespace Escola
         {
             string strconn = ("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
             SqlConnection conn = new SqlConnection(strconn);
+            conn.Open();
             return conn;
 
         }
@@ -24,9 +25,6 @@ namespace Escola
         {
             try
             {
-                                        //abrindo a conezão com o banco de dados
-                conn.Open();
-                                        //Executando o comando sql
                 c.ExecuteNonQuery();
                 conn.Close();
                 return "ok";
@@ -47,7 +45,7 @@ namespace Escola
 
         public SqlDataReader selecionarDadosReader(string c, SqlConnection conn)
         {
-            conn.Open();
+            
             SqlCommand comando = new SqlCommand(c, conn);
             SqlDataReader reader = comando.ExecuteReader();
             return reader;

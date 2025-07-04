@@ -88,5 +88,14 @@ namespace Escola
             return reader;
         }
 
+
+        public SqlDataAdapter FiltrarNomes(string filtroNome)
+        {
+            SqlConnection conn = c_Conexao.abrirConxexao();
+            string command = $"SELECT (RTRIM(nome)), cpf, dataNascimento FROM dbo.Alunos WHERE nome LIKE '%{filtroNome}%'";
+            SqlDataAdapter da = c_Conexao.selecionarDados(command, conn);
+            conn.Close();
+            return da;
+        }
     }
 }

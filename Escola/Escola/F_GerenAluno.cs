@@ -65,12 +65,12 @@ namespace Escola
         private void btnFiltro_Click(object sender, EventArgs e)
         {
             string filtroNome = tbxFiltroNome.Text;
-            SqlConnection sql = new SqlConnection("Data source=SOB041991L4B1PC\\SQLEXPRESS;Initial Catalog=Senac;Integrated Security=True;");
-            string command = $"SELECT (RTRIM(nome)), cpf, dataNascimento FROM dbo.Alunos WHERE nome LIKE '%{filtroNome}%'";
+            //Chamar FiltarNomes();
 
             try
             {
-                SqlDataAdapter da = new SqlDataAdapter(command, sql);
+                C_Aluno c_Aluno = new C_Aluno();
+                SqlDataAdapter da = c_Aluno.FiltrarNomes(filtroNome);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
                 dgvListaAlunos.DataSource = dt;
