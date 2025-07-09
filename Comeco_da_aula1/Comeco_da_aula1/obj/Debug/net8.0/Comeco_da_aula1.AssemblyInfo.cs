@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comeco_da_aula1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f83ecf49fff35ccf84ba0e06cbf696da8c135bb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comeco_da_aula1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comeco_da_aula1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

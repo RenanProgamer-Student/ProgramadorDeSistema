@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\",
+  "WorkspaceRootPath": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|c:\\users\\aluno\\documents\\rrds\\programadordesistema\\escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|c:\\users\\aluno\\documents\\rrds\\programadordesistema\\escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38460440-971B-49B5-9203-17C25ECA530A}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Escola\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,27 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Escola\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs [Design]",
+              "RelativeToolTip": "Escola\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T17:22:21.784Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeToolTip": "Escola\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,23 +55,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "F_Diretor.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "DocumentIndex": 0,
+              "Title": "F_Diretor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeDocumentMoniker": "Escola\\F_Diretor.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs [Projeto]",
-              "RelativeToolTip": "Escola\\F_Diretor.cs [Projeto]",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs [Design]",
+              "RelativeToolTip": "Escola\\F_Diretor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T17:43:22.236Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "F_Diretor.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeDocumentMoniker": "Escola\\F_Diretor.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\Rrds\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeToolTip": "Escola\\F_Diretor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\bin\Debug\net8.0\Matriz.exe
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\bin\Debug\net8.0\Matriz.deps.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\bin\Debug\net8.0\Matriz.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\bin\Debug\net8.0\Matriz.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.pdb
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+D:\Users\Aluno\Documents\renanPdS\ProgramadorDeSistema\Matriz\Matriz\obj\Debug\net8.0\ref\Matriz.dll
