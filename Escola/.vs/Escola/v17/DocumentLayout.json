@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\",
+  "WorkspaceRootPath": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Escola\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|d:\\projetos c#\\programadordesistema\\escola\\escola\\c_conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\c_conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|d:\\projetos c#\\programadordesistema\\escola\\escola\\c_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\c_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|d:\\projetos c#\\programadordesistema\\escola\\escola\\f_cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|d:\\projetos c#\\programadordesistema\\escola\\escola\\f_cadastrarprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_cadastrarprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:Escola\\F_Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|d:\\projetos c#\\programadordesistema\\escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,61 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C_Aluno.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\C_Aluno.cs",
+              "RelativeDocumentMoniker": "Escola\\C_Aluno.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\C_Aluno.cs",
+              "RelativeToolTip": "Escola\\C_Aluno.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:51:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C_Conexao.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\C_Conexao.cs",
+              "RelativeDocumentMoniker": "Escola\\C_Conexao.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\C_Conexao.cs",
+              "RelativeToolTip": "Escola\\C_Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:51:56.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_CadastrarAluno.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "Escola\\F_CadastrarAluno.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_CadastrarAluno.cs [Design]",
+              "RelativeToolTip": "Escola\\F_CadastrarAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:51:55.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "F_CadastrarProf.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_CadastrarProf.cs",
+              "RelativeDocumentMoniker": "Escola\\F_CadastrarProf.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_CadastrarProf.cs [Design]",
+              "RelativeToolTip": "Escola\\F_CadastrarProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:51:53.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs [Design]",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs [Design]",
               "RelativeToolTip": "Escola\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T17:22:21.784Z",
@@ -42,24 +108,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\Form1.cs",
               "RelativeToolTip": "Escola\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowBQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T19:25:27.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "F_Diretor.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeDocumentMoniker": "Escola\\F_Diretor.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs [Design]",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs [Design]",
               "RelativeToolTip": "Escola\\F_Diretor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T17:43:22.236Z",
@@ -67,15 +133,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "F_Diretor.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeDocumentMoniker": "Escola\\F_Diretor.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\renanPdS\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
+              "ToolTip": "D:\\Projetos C#\\ProgramadorDeSistema\\Escola\\Escola\\F_Diretor.cs",
               "RelativeToolTip": "Escola\\F_Diretor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T19:44:37.194Z"
+              "WhenOpened": "2025-05-23T19:44:37.194Z",
+              "EditorCaption": ""
             }
           ]
         }
