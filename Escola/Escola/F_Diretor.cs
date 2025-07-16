@@ -34,5 +34,11 @@ namespace Escola
             F_CadastrarProf janelaCadastrarProf = new F_CadastrarProf();
             janelaCadastrarProf.ShowDialog();
         }
+
+        private void professorTSMI_Click(object sender, EventArgs e)
+        {
+            F_ContratoProfessor f_ContratoProfessor = new F_ContratoProfessor();
+            f_ContratoProfessor.ShowDialog();
+        }
     }
 }

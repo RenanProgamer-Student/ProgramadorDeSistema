@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="C_Aluno.cs" />
     <Compile Include="C_Conexao.cs" />
+    <Compile Include="C_Contrato.cs" />
+    <Compile Include="C_Professor.cs" />
+    <Compile Include="C_Turma.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +74,18 @@
     </Compile>
     <Compile Include="F_CadastrarProf.Designer.cs">
       <DependentUpon>F_CadastrarProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_CadastrarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_CadastrarTurma.Designer.cs">
+      <DependentUpon>F_CadastrarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_ContratoProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_ContratoProfessor.Designer.cs">
+      <DependentUpon>F_ContratoProfessor.cs</DependentUpon>
     </Compile>
     <Compile Include="F_Diretor.cs">
       <SubType>Form</SubType>
@@ -104,6 +119,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F_CadastrarProf.resx">
       <DependentUpon>F_CadastrarProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_CadastrarTurma.resx">
+      <DependentUpon>F_CadastrarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_ContratoProfessor.resx">
+      <DependentUpon>F_ContratoProfessor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Diretor.resx">
       <DependentUpon>F_Diretor.cs</DependentUpon>
