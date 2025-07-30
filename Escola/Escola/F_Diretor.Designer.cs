@@ -38,7 +38,11 @@
             this.relatóriosEEstatísticasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contratoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.professorTSMI = new System.Windows.Forms.ToolStripMenuItem();
+            this.dgvListaContratos = new System.Windows.Forms.DataGridView();
+            this.btnFechar = new System.Windows.Forms.Button();
+            this.gerenciarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaContratos)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -67,26 +71,26 @@
             // cadastrarToolStripMenuItem
             // 
             this.cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
-            this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.cadastrarToolStripMenuItem.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem.Click += new System.EventHandler(this.cadastrarToolStripMenuItem_Click_1);
             // 
             // editarToolStripMenuItem
             // 
             this.editarToolStripMenuItem.Name = "editarToolStripMenuItem";
-            this.editarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.editarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.editarToolStripMenuItem.Text = "Editar";
             // 
             // listarToolStripMenuItem
             // 
             this.listarToolStripMenuItem.Name = "listarToolStripMenuItem";
-            this.listarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.listarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.listarToolStripMenuItem.Text = "Listar";
             // 
             // deletarToolStripMenuItem
             // 
             this.deletarToolStripMenuItem.Name = "deletarToolStripMenuItem";
-            this.deletarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.deletarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.deletarToolStripMenuItem.Text = "Deletar";
             // 
             // relatóriosEEstatísticasToolStripMenuItem
@@ -98,7 +102,8 @@
             // contratoToolStripMenuItem
             // 
             this.contratoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.professorTSMI});
+            this.professorTSMI,
+            this.gerenciarToolStripMenuItem});
             this.contratoToolStripMenuItem.Name = "contratoToolStripMenuItem";
             this.contratoToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.contratoToolStripMenuItem.Text = "Contrato";
@@ -110,12 +115,48 @@
             this.professorTSMI.Text = "professor";
             this.professorTSMI.Click += new System.EventHandler(this.professorTSMI_Click);
             // 
+            // dgvListaContratos
+            // 
+            this.dgvListaContratos.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dgvListaContratos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListaContratos.Location = new System.Drawing.Point(22, 56);
+            this.dgvListaContratos.Name = "dgvListaContratos";
+            this.dgvListaContratos.ReadOnly = true;
+            this.dgvListaContratos.RowHeadersVisible = false;
+            this.dgvListaContratos.Size = new System.Drawing.Size(742, 365);
+            this.dgvListaContratos.TabIndex = 2;
+            this.dgvListaContratos.Visible = false;
+            // 
+            // btnFechar
+            // 
+            this.btnFechar.BackColor = System.Drawing.Color.White;
+            this.btnFechar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnFechar.Location = new System.Drawing.Point(664, 27);
+            this.btnFechar.Name = "btnFechar";
+            this.btnFechar.Size = new System.Drawing.Size(100, 23);
+            this.btnFechar.TabIndex = 3;
+            this.btnFechar.Text = "Fechar";
+            this.btnFechar.UseVisualStyleBackColor = false;
+            this.btnFechar.Visible = false;
+            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click_1);
+            // 
+            // gerenciarToolStripMenuItem
+            // 
+            this.gerenciarToolStripMenuItem.Name = "gerenciarToolStripMenuItem";
+            this.gerenciarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gerenciarToolStripMenuItem.Text = "Gerenciar";
+            this.gerenciarToolStripMenuItem.Click += new System.EventHandler(this.gerenciarToolStripMenuItem_Click_2);
+            // 
             // F_Diretor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Escola.Properties.Resources.FundoDrt;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnFechar);
+            this.Controls.Add(this.dgvListaContratos);
             this.Controls.Add(this.menuStrip1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "F_Diretor";
@@ -124,6 +165,7 @@
             this.Load += new System.EventHandler(this.F_Diretor_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaContratos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -140,5 +182,8 @@
         private System.Windows.Forms.ToolStripMenuItem deletarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem contratoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem professorTSMI;
+        private System.Windows.Forms.DataGridView dgvListaContratos;
+        private System.Windows.Forms.Button btnFechar;
+        private System.Windows.Forms.ToolStripMenuItem gerenciarToolStripMenuItem;
     }
 }

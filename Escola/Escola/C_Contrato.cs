@@ -53,5 +53,14 @@ namespace Escola
             }
         }
 
+        public SqlDataAdapter selecionarTodos()
+        {
+            SqlConnection conn = c_Conexao.abrirConxexao();
+            string command = "SELECT LTRIM(RTRIM(Professores.nome)) AS nome, LTRIM(RTRIM(T_Turmas.diciplina)) AS diciplina FROM T_Contratos JOIN Professores ON T_Contratos.id_Professor = Professores.id JOIN T_Turmas ON T_Contratos.id_turma = T_Turmas.id;";
+            SqlDataAdapter da = c_Conexao.selecionarDados(command, conn);
+            conn.Close();
+            return da;
+        }
+
     }
 }

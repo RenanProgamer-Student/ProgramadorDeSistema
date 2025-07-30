@@ -33,11 +33,14 @@
             this.gerenciarAlunosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmGrenciar = new System.Windows.Forms.ToolStripMenuItem();
-            this.dgvListaAlunos = new System.Windows.Forms.DataGridView();
-            this.btnAtualizar = new System.Windows.Forms.Button();
             this.TurmasTSMI = new System.Windows.Forms.ToolStripMenuItem();
             this.CadastrarTSMI = new System.Windows.Forms.ToolStripMenuItem();
+            this.dgvListaAlunos = new System.Windows.Forms.DataGridView();
+            this.btnAtualizar = new System.Windows.Forms.Button();
             this.dgvTurmas = new System.Windows.Forms.DataGridView();
+            this.listaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listaTSMI = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnFechar = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaAlunos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTurmas)).BeginInit();
@@ -58,7 +61,8 @@
             // 
             this.gerenciarAlunosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastrarToolStripMenuItem,
-            this.tsmGrenciar});
+            this.tsmGrenciar,
+            this.listaToolStripMenuItem});
             this.gerenciarAlunosToolStripMenuItem.Name = "gerenciarAlunosToolStripMenuItem";
             this.gerenciarAlunosToolStripMenuItem.Size = new System.Drawing.Size(109, 20);
             this.gerenciarAlunosToolStripMenuItem.Text = "Gerenciar Alunos";
@@ -77,31 +81,11 @@
             this.tsmGrenciar.Text = "Gerenciar";
             this.tsmGrenciar.Click += new System.EventHandler(this.editarToolStripMenuItem_Click);
             // 
-            // dgvListaAlunos
-            // 
-            this.dgvListaAlunos.BackgroundColor = System.Drawing.SystemColors.Control;
-            this.dgvListaAlunos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvListaAlunos.Location = new System.Drawing.Point(12, 110);
-            this.dgvListaAlunos.Name = "dgvListaAlunos";
-            this.dgvListaAlunos.ReadOnly = true;
-            this.dgvListaAlunos.RowHeadersVisible = false;
-            this.dgvListaAlunos.Size = new System.Drawing.Size(466, 422);
-            this.dgvListaAlunos.TabIndex = 1;
-            // 
-            // btnAtualizar
-            // 
-            this.btnAtualizar.Location = new System.Drawing.Point(871, 27);
-            this.btnAtualizar.Name = "btnAtualizar";
-            this.btnAtualizar.Size = new System.Drawing.Size(75, 23);
-            this.btnAtualizar.TabIndex = 2;
-            this.btnAtualizar.Text = "Atualizar";
-            this.btnAtualizar.UseVisualStyleBackColor = true;
-            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
-            // 
             // TurmasTSMI
             // 
             this.TurmasTSMI.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.CadastrarTSMI});
+            this.CadastrarTSMI,
+            this.listaTSMI});
             this.TurmasTSMI.Name = "TurmasTSMI";
             this.TurmasTSMI.Size = new System.Drawing.Size(58, 20);
             this.TurmasTSMI.Text = "Turmas";
@@ -113,6 +97,28 @@
             this.CadastrarTSMI.Text = "Cadastrar";
             this.CadastrarTSMI.Click += new System.EventHandler(this.CadastrarTSMI_Click);
             // 
+            // dgvListaAlunos
+            // 
+            this.dgvListaAlunos.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dgvListaAlunos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListaAlunos.Location = new System.Drawing.Point(12, 110);
+            this.dgvListaAlunos.Name = "dgvListaAlunos";
+            this.dgvListaAlunos.ReadOnly = true;
+            this.dgvListaAlunos.RowHeadersVisible = false;
+            this.dgvListaAlunos.Size = new System.Drawing.Size(466, 422);
+            this.dgvListaAlunos.TabIndex = 1;
+            this.dgvListaAlunos.Visible = false;
+            // 
+            // btnAtualizar
+            // 
+            this.btnAtualizar.Location = new System.Drawing.Point(871, 27);
+            this.btnAtualizar.Name = "btnAtualizar";
+            this.btnAtualizar.Size = new System.Drawing.Size(75, 23);
+            this.btnAtualizar.TabIndex = 2;
+            this.btnAtualizar.Text = "Atualizar";
+            this.btnAtualizar.UseVisualStyleBackColor = true;
+            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
+            // 
             // dgvTurmas
             // 
             this.dgvTurmas.BackgroundColor = System.Drawing.SystemColors.Control;
@@ -123,16 +129,46 @@
             this.dgvTurmas.RowHeadersVisible = false;
             this.dgvTurmas.Size = new System.Drawing.Size(466, 422);
             this.dgvTurmas.TabIndex = 3;
+            this.dgvTurmas.Visible = false;
+            // 
+            // listaToolStripMenuItem
+            // 
+            this.listaToolStripMenuItem.Name = "listaToolStripMenuItem";
+            this.listaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.listaToolStripMenuItem.Text = "Lista";
+            this.listaToolStripMenuItem.Click += new System.EventHandler(this.listaToolStripMenuItem_Click);
+            // 
+            // listaTSMI
+            // 
+            this.listaTSMI.Name = "listaTSMI";
+            this.listaTSMI.Size = new System.Drawing.Size(180, 22);
+            this.listaTSMI.Text = "Lista";
+            this.listaTSMI.Click += new System.EventHandler(this.listaTSMI_Click);
+            // 
+            // btnFechar
+            // 
+            this.btnFechar.Location = new System.Drawing.Point(871, 56);
+            this.btnFechar.Name = "btnFechar";
+            this.btnFechar.Size = new System.Drawing.Size(75, 23);
+            this.btnFechar.TabIndex = 4;
+            this.btnFechar.Text = "Fechar";
+            this.btnFechar.UseVisualStyleBackColor = true;
+            this.btnFechar.Visible = false;
+            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click);
             // 
             // F_Professor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Escola.Properties.Resources.FundoDrt;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(958, 544);
+            this.Controls.Add(this.btnFechar);
             this.Controls.Add(this.dgvTurmas);
             this.Controls.Add(this.btnAtualizar);
             this.Controls.Add(this.dgvListaAlunos);
             this.Controls.Add(this.menuStrip1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "F_Professor";
@@ -159,5 +195,8 @@
         private System.Windows.Forms.ToolStripMenuItem TurmasTSMI;
         private System.Windows.Forms.ToolStripMenuItem CadastrarTSMI;
         private System.Windows.Forms.DataGridView dgvTurmas;
+        private System.Windows.Forms.ToolStripMenuItem listaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listaTSMI;
+        private System.Windows.Forms.Button btnFechar;
     }
 }

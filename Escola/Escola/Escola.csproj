@@ -164,5 +164,11 @@
   <ItemGroup>
     <None Include="Resources\bg-CdProf.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FundoDrt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradiente_contrato_professor.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -80,5 +80,40 @@ namespace Escola
             F_CadastrarTurma janelaCadastrarTurma = new F_CadastrarTurma();
             janelaCadastrarTurma.ShowDialog();
         }
+
+        private void listaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (!dgvListaAlunos.Visible)
+            {
+                dgvListaAlunos.Visible = true;
+                btnFechar.Visible = true;
+                CarregarAlunos();
+            }
+            
+        }
+        private void listaTSMI_Click(object sender, EventArgs e)
+        {
+            if (!dgvTurmas.Visible)
+            {
+                dgvTurmas.Visible = true;
+                btnFechar.Visible = true;
+                CarregarTurmas();
+            }
+        }
+
+        private void btnFechar_Click(object sender, EventArgs e)
+        {
+            if (dgvListaAlunos.Visible)
+            {
+                dgvListaAlunos.Visible = false;
+                btnFechar.Visible = false;
+            }
+            if (dgvTurmas.Visible)
+            {
+                dgvTurmas.Visible = false;
+                btnFechar.Visible = false;
+            }
+        }
+
     }
 }
